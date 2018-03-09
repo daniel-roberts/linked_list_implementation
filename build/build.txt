@@ -1,1 +1,3 @@
-Run cmake .. from this directory
+Run git submodule --init --recursive to load deps
+then run cmake .. from this directory
+
