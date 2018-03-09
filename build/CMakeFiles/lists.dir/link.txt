@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/lists.dir/src/list.c.o  -o lists -rdynamic deps/linux_linked_list/liblinux_list.a 

@@ -1,0 +1,8 @@
+/home/daniel/study/kernel_list/build/CMakeFiles/edit_cache.dir
+/home/daniel/study/kernel_list/build/CMakeFiles/rebuild_cache.dir
+/home/daniel/study/kernel_list/build/CMakeFiles/lists.dir
+/home/daniel/study/kernel_list/build/deps/CMakeFiles/edit_cache.dir
+/home/daniel/study/kernel_list/build/deps/CMakeFiles/rebuild_cache.dir
+/home/daniel/study/kernel_list/build/deps/linux_linked_list/CMakeFiles/edit_cache.dir
+/home/daniel/study/kernel_list/build/deps/linux_linked_list/CMakeFiles/rebuild_cache.dir
+/home/daniel/study/kernel_list/build/deps/linux_linked_list/CMakeFiles/linux_list.dir
